@@ -14,13 +14,13 @@ Use StarLord is very simple, just follow this lines :)
 ```python
 from bot.StarLordBot import StarLordBot
 
-startLord = StarLordBot()
+starLord = StarLordBot()
 
-startLord.fetchApodArchive()
+starLord.fetchApodArchive()
 
-startLord.getListOfLinks(15)
+starLord.getListOfLinks(15)
 
-startLord.getAllPictures()
+starLord.getAllPictures()
 ```
 
 ## Or you can just call example.py :)

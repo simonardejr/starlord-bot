@@ -1,9 +1,9 @@
 from bot.StarLordBot import StarLordBot
 
-startLord = StarLordBot()
+starLord = StarLordBot()
 
-startLord.fetchApodArchive()
+starLord.fetchApodArchive()
 
-startLord.getListOfLinks(15)
+starLord.getListOfLinks(15)
 
-startLord.getAllPictures()
+starLord.getAllPictures()
